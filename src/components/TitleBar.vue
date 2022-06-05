@@ -26,7 +26,7 @@ const searchData = async () => {
     console.log(res);
     init();
   } else {
-    alert("請輸入帳號");
+    alert("請輸入正確帳號");
   }
 };
 </script>
